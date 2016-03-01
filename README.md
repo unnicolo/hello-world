@@ -1,2 +1,2 @@
 # hello-world
-test-repository
+Hello, this README was created during the GitHub tutorial.
